@@ -1,6 +1,6 @@
 # Hyperspell
 
-Hyperspell gives AI agents context and memory — the missing layer between your agent and the codebase, docs, and knowledge it needs to be useful.
+Hyperspell is your Company Brain. A living, permissioned model of how your organization works. Hyperspell connects all your tools, and continuously synthesizes documents and conversations into a real-time context graph that any agent can query as a filesystem, with every fact traced to source.
 
 ## Integration
 
